@@ -1,6 +1,6 @@
 print('\n\n=== Streaming Movie Rental System ===')
 print('Enter rental period: 24hour, 48hour, or weekly')
-print('Type + "done" + when finished selecting movies')
+print('Type "done"  when finished selecting movies')
 subtotal = float()
 
 discount = 3.50
